@@ -1,0 +1,1434 @@
+fileFormatVersion: 2
+guid: 6e69db6c23218fe41815378c4a275815
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2350
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b35df5ff833c74b9d1743ac366dd8b
+      internalID: -2055536617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2350
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3089b16bfe9d9b54b8b36817f135752b
+      internalID: -2124695976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2350
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aecca170f5bde7449a56f84ecf6648c
+      internalID: 70375547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 2350
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbd5c24498217944bd1a1e7a953ab9a
+      internalID: -1986236883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2350
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e56957abf73124e97ed8a615bc1dc6
+      internalID: -603789341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 2350
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b39f2e0e41719489b17be79f777429
+      internalID: -561143463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 2350
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b3dc331a31886478f9d2379e71c2af
+      internalID: 776164568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 2350
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2025b9d40717d4493a262a41cae366
+      internalID: -425486380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 2350
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f701c05e0b0df6d48bb87bee8149104c
+      internalID: 1591293771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 2350
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d547474f3c2f543826707dbf1fc4df
+      internalID: 748050710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1880
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf0a1bdb29a1f244b66118d83f10622
+      internalID: -1793217723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1880
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf61090e8f48374da0a45ea3d27d096
+      internalID: 1077427541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1880
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175806467db362f4385d3d2ff5d00c69
+      internalID: -1497784526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1880
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fa8fce4cfa82442935a1cafaf8fd33
+      internalID: -283107946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1880
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394964fb4de87d14eb97b919a5de78ca
+      internalID: -1876942465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1880
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb16cd6e14a77a14aa9068cbfcfe2e36
+      internalID: -1476671185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1880
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3224aaf41d77d429b1b32068a549c0
+      internalID: -1134055712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 1880
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25059c605a41e74ebd9915aadeef6a2
+      internalID: 1684510771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1880
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ecb1e700f094f46938c9e9241c6758
+      internalID: 67289057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 1880
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1548cd756c2fbb049b8e1e344c29e20e
+      internalID: -1758462038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1410
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d35ca79a8e1189448d2dc0043d3d865
+      internalID: -1094305568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1410
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f852ca462ab47a04e9aeb6685ff7ed8f
+      internalID: -896041438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1410
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a50fe2c6c271745a2d65aae94f4cb8
+      internalID: -408163436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1410
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc829488dc44fe49bb5fa3545ae5564
+      internalID: -559770734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1410
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786540172f1961448a37e798ede20c72
+      internalID: 806606535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1410
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd50287098068c47896b19103787121
+      internalID: -666431110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1410
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7737c59bb90bc740889f7d7fb7a0ab9
+      internalID: 299352880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 1410
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba17c65be3313594bab62993b7379161
+      internalID: 138579461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1410
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c3c9fccd221fa4086201f880c4e699
+      internalID: 444394272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 1410
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb0ae5184b52624d8af73d6198b6beb
+      internalID: 984344883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3794d63cdca664c85f08b86f08bd6a
+      internalID: 1014471289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 940
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37032d884b32ae641a3a6f7d5e46602e
+      internalID: 1787204491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 940
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0017ebc4ae71bad40bce7b1ed46fcc02
+      internalID: 1155836263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 940
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b569c0991cbdd45b4265d8deccf570
+      internalID: 619133087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 940
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c69f342214011e4c817ea673d0494d7
+      internalID: -902546327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 940
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fa75f38d21ff64abf9930920a53807
+      internalID: -344597246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 940
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84960711815da87478f2593c06221b28
+      internalID: 313897195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 940
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2649a06deab4143a8cf24adff21ffd
+      internalID: 1635798774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 940
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6b7797e2ff25946b6c075bbf3bd5f1
+      internalID: 789936493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 940
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42fb71548b6ec5409cf383f6a457fd2
+      internalID: 2054048501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a59401bb5fe454c935374efcc10aea
+      internalID: 1852673020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 470
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b114c9107fa6ba4bb9461ed20b27e61
+      internalID: -923404437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 470
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617cdf317920c3f419b4b847a987fa5f
+      internalID: 904873230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 470
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a100302b5d4d98b45864b102588075e2
+      internalID: 657850307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 470
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c24e5530fd5ee44e86c1a23bf57ee0c
+      internalID: -1209127654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 470
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763ed5e3fc718c14bbe6380392519f78
+      internalID: 743459962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 470
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa751c8e9937534aa2e51e05a026a10
+      internalID: -859680127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 470
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f72d1ac94190942bf5f180585681c5
+      internalID: 567730585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 470
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f089d0df6f8ba0e4fb312619348a0a00
+      internalID: 1474997749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 470
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1173a97dad54ca2428485af021d82540
+      internalID: -1731998569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e292a15c5c6dc6438129621a419279d
+      internalID: 1307615192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 0
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97ef51781860094d89f9032ae8af44d
+      internalID: 1868942576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 0
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bfe22c362f8554c8c1d11ff5cad518
+      internalID: -717059618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 0
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fea38cad64f2894ca64241b3381424b
+      internalID: -644475129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 0
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209224571e5965044a97007390f5f4cf
+      internalID: -1178008490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 0
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35794db19630fd3408f090ec6c590f3c
+      internalID: -785235000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 0
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0898603b95de504f8486553d06228b9
+      internalID: -758207866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 0
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5406e472b44f2f1459fadb1a4460f1ac
+      internalID: -1008791889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 0
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b7d28e1e7c9ce429a6bbd8113ddf94
+      internalID: 2115090206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_Hi_Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 0
+        width: 412
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c31271160eabb4439372c3359a2e724
+      internalID: -924352492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9cdf17f66f0b99943a20272ad4047057
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Larry_Hi_Sheet_0: -2055536617
+      Larry_Hi_Sheet_1: -2124695976
+      Larry_Hi_Sheet_10: -1793217723
+      Larry_Hi_Sheet_11: 1077427541
+      Larry_Hi_Sheet_12: -1497784526
+      Larry_Hi_Sheet_13: -283107946
+      Larry_Hi_Sheet_14: -1876942465
+      Larry_Hi_Sheet_15: -1476671185
+      Larry_Hi_Sheet_16: -1134055712
+      Larry_Hi_Sheet_17: 1684510771
+      Larry_Hi_Sheet_18: 67289057
+      Larry_Hi_Sheet_19: -1758462038
+      Larry_Hi_Sheet_2: 70375547
+      Larry_Hi_Sheet_20: -1094305568
+      Larry_Hi_Sheet_21: -896041438
+      Larry_Hi_Sheet_22: -408163436
+      Larry_Hi_Sheet_23: -559770734
+      Larry_Hi_Sheet_24: 806606535
+      Larry_Hi_Sheet_25: -666431110
+      Larry_Hi_Sheet_26: 299352880
+      Larry_Hi_Sheet_27: 138579461
+      Larry_Hi_Sheet_28: 444394272
+      Larry_Hi_Sheet_29: 984344883
+      Larry_Hi_Sheet_3: -1986236883
+      Larry_Hi_Sheet_30: 1014471289
+      Larry_Hi_Sheet_31: 1787204491
+      Larry_Hi_Sheet_32: 1155836263
+      Larry_Hi_Sheet_33: 619133087
+      Larry_Hi_Sheet_34: -902546327
+      Larry_Hi_Sheet_35: -344597246
+      Larry_Hi_Sheet_36: 313897195
+      Larry_Hi_Sheet_37: 1635798774
+      Larry_Hi_Sheet_38: 789936493
+      Larry_Hi_Sheet_39: 2054048501
+      Larry_Hi_Sheet_4: -603789341
+      Larry_Hi_Sheet_40: 1852673020
+      Larry_Hi_Sheet_41: -923404437
+      Larry_Hi_Sheet_42: 904873230
+      Larry_Hi_Sheet_43: 657850307
+      Larry_Hi_Sheet_44: -1209127654
+      Larry_Hi_Sheet_45: 743459962
+      Larry_Hi_Sheet_46: -859680127
+      Larry_Hi_Sheet_47: 567730585
+      Larry_Hi_Sheet_48: 1474997749
+      Larry_Hi_Sheet_49: -1731998569
+      Larry_Hi_Sheet_5: -561143463
+      Larry_Hi_Sheet_50: 1307615192
+      Larry_Hi_Sheet_51: 1868942576
+      Larry_Hi_Sheet_52: -717059618
+      Larry_Hi_Sheet_53: -644475129
+      Larry_Hi_Sheet_54: -1178008490
+      Larry_Hi_Sheet_55: -785235000
+      Larry_Hi_Sheet_56: -758207866
+      Larry_Hi_Sheet_57: -1008791889
+      Larry_Hi_Sheet_58: 2115090206
+      Larry_Hi_Sheet_59: -924352492
+      Larry_Hi_Sheet_6: 776164568
+      Larry_Hi_Sheet_7: -425486380
+      Larry_Hi_Sheet_8: 1591293771
+      Larry_Hi_Sheet_9: 748050710
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
